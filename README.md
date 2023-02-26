@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfer17&label=Profile%20views&color=0e75b6&style=flat" alt="lfer17" /> </p>
 
+<p>FullStack developer with more experience on the FRONT-END side in other hand in BACK-END I've knowledge to understand, develop. 100% team player. In a few years I would like to specialize my career in cybersecurity.</p>
 
 - 🌱 I’m currently learning **cybersecurity and ethical hacking to explore and improve in the creation of robust and secure code.**
 
