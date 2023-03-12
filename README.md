@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A full-stack developer full-stack developer focused on continuous improvement of skills.</h3>
+<h3 align="center">A full-stack developer focused on continuous improvement of skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfer17&label=Profile%20views&color=0e75b6&style=flat" alt="lfer17" /> </p>
 
